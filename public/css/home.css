@@ -1,0 +1,44 @@
+   /*header*/
+.home-logo{
+    padding-left: 25px;}
+div{
+    padding-left: 13px;}
+.p-header-home{
+    text-align: center;}
+ul{
+    padding: 0px}
+li{
+    list-style: none;}
+a{
+    text-decoration:none;
+    color: black}
+p.precio{
+    font-size: 18px;}
+.home-header-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+.home-header-menu button{
+    background-color: #EAC926;
+    border: none}
+.home-header-menu i{
+    border-radius: 5px;
+    color: white;
+    background-color: #1259c3;
+    font-size: 20px;
+    padding: 5px;
+    box-sizing: border-box;}
+
+    /*footer*/
+.home-footer-li{
+    text-align: center;
+    font-weight: bold;
+    color: #ebebeb;}
+.home-footer-h4{
+    text-align: center;
+    color: #666;}
+.home-footer-icono{
+    color: #1259c3;
+    font-size: 2em;
+    text-align: center;
+    padding-bottom: 10px;}
